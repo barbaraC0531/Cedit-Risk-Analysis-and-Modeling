@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+
+# Data and outputs
+data/
+outputs/
+
+# OS
+.DS_Store
